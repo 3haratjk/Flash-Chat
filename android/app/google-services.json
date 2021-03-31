@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52904355572",
+    "firebase_url": "https://flash-chat-b5eee.firebaseio.com",
+    "project_id": "flash-chat-b5eee",
+    "storage_bucket": "flash-chat-b5eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52904355572:android:b77506bdcbae91b2cf60a1",
+        "android_client_info": {
+          "package_name": "tech.spontalabs.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52904355572-puvpfia8160bq0h5701qs1m694a8mvuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1m3QkqOpl2771eqZfFdtvU4LKDx32G5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52904355572-puvpfia8160bq0h5701qs1m694a8mvuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
